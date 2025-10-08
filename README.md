@@ -2,7 +2,7 @@
 
 🎯 Frontend Developer passionate about turning ideas into real-world solutions through technology.
 
-📄 You can view my interactive and responsive resume by clicking here: <a href="https://cv.dev-luch.com/" target="_blank" style="display: inline-block; padding: 16px 32px; font-size: 18px; font-weight: bold; color: white; background-color: #0077cc; text-decoration: none; border-radius: 8px; width: 100%; max-width: 400px; text-align: center;">📄 View Resume</a>
+👨‍💻 You can view my portfólio by clicking here: <a href="https://dev-luch.com/" target="_blank" style="display: inline-block; padding: 16px 32px; font-size: 18px; font-weight: bold; color: white; background-color: #0077cc; text-decoration: none; border-radius: 8px; width: 100%; max-width: 400px; text-align: center;">🌐 View Portfólio</a>
 
 ---
 
@@ -26,4 +26,5 @@ I'm a self-taught developer passionate about solving real-world problems through
 * 💼 [LinkedIn](https://www.linkedin.com/in/lucas-christian-226846245/)
 * 💻 [GitHub](https://github.com/Lucas-Christian)
 * 📹 [YouTube - @dev-luch](https://www.youtube.com/@dev-luch)
+* 🌐 [Portfólio](https://dev-luch.com)
 * 📄 [CV Lucas Christian](https://cv.dev-luch.com)
